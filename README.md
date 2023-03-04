@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/skvbi" target="blank"><img src="https://img.shields.io/twitter/follow/skvbi?logo=twitter&style=for-the-badge" alt="skvbi" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.discordapp.com/banners/309411016955920386/a_94c48420d918954f285f43c97756da69?size=4096">
+  <img align="right" top="500" height="200" width="400" alt="GIF" src="https://cdn.discordapp.com/banners/309411016955920386/a_94c48420d918954f285f43c97756da69?size=4096">
 </a>
 
 
