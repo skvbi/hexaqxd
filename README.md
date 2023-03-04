@@ -1,22 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hexaq</h1>
+<h1 align="center">Hi 👋, I'm skvbi</h1>
+<a>Profile Views: https://profile-counter.glitch.me/skvbi/count.svg</a>
+<h3 align="center">A beginner HTML, CSS, JS, SASS developer from Poland</h3>
+
+<p align="left"> <a href="https://twitter.com/skvbi" target="blank"><img src="https://img.shields.io/twitter/follow/skvbi?logo=twitter&style=for-the-badge" alt="skvbi" /></a> </p>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://cdn.discordapp.com/banners/309411016955920386/a_94c48420d918954f285f43c97756da69?size=4096">
+</a>
+
+
+- 🌱 I’m currently learning JS, SASS, CSS
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/309411016955920386.png" />
-<p align="center">
-<h3 align="center">A passionate HTML, CSS, JS, Node.JS developer from Poland</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hexaq&label=Profile%20views&color=0e75b6&style=flat" alt="hexaq" /> </p>
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/skvbi">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/skvbi">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/skvbi">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://discord.com/invite/bpRVQQfb6J">
+				<img src="https://img.icons8.com/doodle/40/000000/discord--v1.png" ></a>
+        		<a style="margin-left: 10px;" target="_blank" href="https://www.twitch.tv/skvbi_">
+				<img src="https://img.icons8.com/doodle/1x/twitch--v2.png" ></a>
 
-
-
-- :seedling: I’m currently learning **Python, SQL**
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.lua.org/pil/1.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="lua" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hexaq&show_icons=true&locale=en&layout=compact" alt="hexaq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hexaq&show_icons=true&locale=en" alt="hexaq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hexaq&" alt="hexaq" /></p>
-
+</p>
