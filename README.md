@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm skvbi</h1>
-<a>Profile Views: https://profile-counter.glitch.me/skvbi/count.svg</a>
-<h3 align="center">A beginner HTML, CSS, JS, SASS developer from Poland</h3>
+<h2 align="center">A beginner HTML, CSS, JS, SASS developer from Poland</h2>
+<h3>Profile Views: <img src="https://profile-counter.glitch.me/skvbi/count.svg"</h3>
 
 <p align="left"> <a href="https://twitter.com/skvbi" target="blank"><img src="https://img.shields.io/twitter/follow/skvbi?logo=twitter&style=for-the-badge" alt="skvbi" /></a> </p>
 
